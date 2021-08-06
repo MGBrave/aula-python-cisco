@@ -1,0 +1,7 @@
+print(2 ** 3)
+print(2 ** 3.)
+print(2. ** 3)
+print(2. ** 3.)
+print()
+print(5 ** 2)
+print(10 ** 2)
